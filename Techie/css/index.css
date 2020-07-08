@@ -1,0 +1,38 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(250, 245, 238);
+  font-size: 14px;
+  margin-left: 20px;
+  margin-right: 10px;
+  line-height: 1.5em;
+  
+}
+h1{
+  color:#ee4411;
+}
+h3{
+  color: #000077;
+}
+
+
+img{
+  padding: 15px;
+}
+em{
+  color:#0022ff;
+}
+#first,#second,#third,#fourth,#fifth{
+  border-width: 2px;
+border-style: solid;
+border-color: #007e7e;
+border-radius: 15px;
+margin-right: 100px;
+}
+p{
+  color: #990011;
+}
+p.sub{
+  color: #000077;
+}
+
+  
